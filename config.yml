@@ -1,2 +1,14 @@
-personal_project: Dough
 name: Megan Dukek
+
+repo_names:
+  - Dough
+  - ATLAS-iOS-Fall-22
+
+# Provide any URLs for your Videos
+10-ux-ui-criticism:
+  - http://
+  - http://
+
+# Provide any URLs for your Data Models assignment
+11-models-from-data:
+  - 
